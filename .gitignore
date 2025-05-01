@@ -1,0 +1,10 @@
+# Python virtual environment
+myenv/
+
+# File system metadata and data files
+fs_metadata.json
+sample.dat
+
+# Input and output files
+input_thread*.txt
+output_thread*.txt

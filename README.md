@@ -19,20 +19,18 @@ A modern file management system that supports multi-threaded file operations wit
 
 1. Clone the repository:
 
-git clone <https://github.com/Kiranwaqar/Threaded_File_Management_System.git>
-cd <repository-directory>
-
+   git clone <https://github.com/Kiranwaqar/Threaded_File_Management_System.git>
 
 2. Create and activate a virtual environment:
 
-python -m venv myenv
+   python -m venv myenv
 # On Windows
-myenv\Scripts\activate
+      myenv\Scripts\activate
 
 
 3. Install required packages:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 ## Running the Application
@@ -41,7 +39,7 @@ pip install -r requirements.txt
 
 2. Run the application:
 
-python fileSystem.py
+   python fileSystem.py
 
 
 ## Usage
